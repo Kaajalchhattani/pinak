@@ -1,0 +1,62 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.body
+{
+    height: 100%;
+}
+.main1{
+   
+    padding-top: 70px;
+    background-color:gold;
+    text-align: center;
+    height: 100vh;
+    border-bottom: 8vh solid tomato;
+   
+    
+    
+}
+h1{
+    color:white;
+   
+}
+  
+
+
+.circle
+{
+    background-color:gray;
+    border-radius:50%;
+    height:100px;
+    width:100px;
+ margin: auto;
+}
+.rec{    display: float;
+    height:450px;
+   
+}
+.one{
+ float: left;
+    height:50px;
+   border-bottom: 50px solid tomato;
+	border-left: 0px solid transparent;
+   border-right: 7vh solid transparent;
+   width:50vw;
+   height: 450px;
+}
+.two{
+    float:right;
+    height:50px;
+  border-bottom: 50px solid tomato;
+	border-right: 0px solid transparent;
+   border-left: 7vh solid transparent;
+   width:50vw;
+   height: 450px;
+   
+}
+.whole
+{
+    background-color: tomato;
+}
